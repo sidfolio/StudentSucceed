@@ -1,0 +1,84 @@
+Challenge Objective
+It is 10:00 AM on the day of a major product release. You are the Product Designer responsible for improving the onboarding experience of a SaaS platform when three critical issues emerge simultaneously:
+
+1. The Conversion Problem
+Analytics reveal that 42% of new users abandon the onboarding process before completing account setup. Initial feedback suggests that the process is too lengthy, users are unsure why certain information is required, and the interface provides insufficient guidance when errors occur. Product leadership expects measurable improvements before the next release.
+
+2. The Accessibility Failure
+During final testing, the QA team discovers that several form fields lack proper labels, keyboard navigation is inconsistent, and error messages are difficult for screen-reader users to identify. Engineering estimates that correcting these issues could delay the release by one business day.
+
+3. The Engineering Constraint
+Engineering informs you that a proposed onboarding redesign cannot be implemented in its current form because the existing authentication system does not support some of the required interactions. A complete backend modification would take approximately two weeks, but the product team is under pressure to release improvements this week.
+
+Your Task
+Prepare a product design response plan addressing all three issues. Your submission must include the following:
+
+1. Prioritization & Design Rationale
+Explain which issues you would address first and why. Describe how you would balance conversion improvements, accessibility requirements, release timelines, and engineering limitations.
+
+2. UX Redesign Proposal
+Redesign the onboarding experience to reduce friction and help users complete account setup successfully.
+
+Your proposal should include:
+
+A revised user flow showing the major onboarding steps.
+
+Low-fidelity wireframes for at least three key screens, including a form screen and an error or validation state.
+
+An explanation of how your design reduces unnecessary steps, clarifies user expectations, and improves error recovery.
+
+At least three measurable success metrics you would use to evaluate the redesign.
+
+You do not need to produce a fully polished visual interface. The focus is on the quality of your design decisions and how effectively you communicate them.
+
+3. Cross-Functional Communication
+Draft a concise update to the Product Manager, Engineering Lead, and QA Lead explaining the current risks, your recommended approach, immediate priorities, and the decisions or resources required from each team.
+
+4. Implementation & Validation Plan
+Outline the steps you would take to move from the proposed design to a validated release. Include how you would work with engineering within the existing technical constraints, verify accessibility, test the redesigned experience, and monitor results after launch.
+
+Evaluation Criteria
+Your submission will be evaluated on:
+
+UX Problem-Solving: Ability to identify user friction and propose practical, user-centered improvements.
+
+Design Execution: Quality and clarity of user flows, wireframes, form interactions, and error states.
+
+Prioritization: Ability to make defensible trade-offs without overlooking accessibility or user needs.
+
+Technical Collaboration: Understanding of implementation constraints and ability to work constructively with engineering.
+
+Accessibility & Usability: Application of inclusive design principles and consideration of different user needs.
+
+Product Thinking: Use of measurable outcomes, testing, and evidence to guide design decisions.
+
+Communication: Ability to explain decisions clearly and align cross-functional stakeholders.
+
+Bonus Challenge
++10 pts
+While preparing your redesign, the VP of Product proposes removing several accessibility-related form instructions and reducing the visibility of error messages to make onboarding appear shorter and improve completion rates before the release.
+
+The VP argues that these changes are temporary and can be corrected after launch.
+
+Your Task
+Write a brief executive decision note (maximum 150 words) to the VP of Product and Engineering Lead explaining whether you would accept or reject the proposal and why.
+
+Propose one actionable modification to the product development or release process that would prevent conversion targets and release deadlines from repeatedly conflicting with accessibility requirements.
+
+Assessment Expectation: Demonstrate sound design judgment, practical problem-solving, clear communication, and the ability to defend user-centered decisions under commercial pressure.
+
+Submission Checklist
+1
+Prepare your response
+
+Organize your thoughts clearly using a professional document editor or specialized tool.
+
+2
+Explain Your Process
+
+Provide the "how" and "why" behind your work through a written breakdown of your logic or a short video walkthrough.
+
+3
+Provide Solution Link
+
+GitHub repository, GitHub Repo / Link to file or cloud document.
